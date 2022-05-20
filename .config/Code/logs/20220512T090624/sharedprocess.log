@@ -1,0 +1,61 @@
+[2022-05-12 09:06:26.929] [sharedprocess] [info] Starting worker process with pid 15676 (type: fileWatcher, window: 1).
+[2022-05-12 09:06:26.999] [sharedprocess] [info] Deleted from disk ms-python.python /home/nyro/.vscode/extensions/ms-python.python-2022.6.0
+[2022-05-12 09:06:27.002] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/nyro/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5527
+[2022-05-12 09:07:27.105] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-12 09:07:29.850] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-12 09:07:41.022] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nyro/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.1
+[2022-05-12 09:07:43.314] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.5d935f3d-9a7a-4205-967f-abb2f3dbde97: ms-python.vscode-pylance
+[2022-05-12 09:07:43.331] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1
+[2022-05-12 09:07:43.333] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-12 09:07:43.340] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-05-12 09:07:54.831] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-05-12 09:07:54.839] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-05-12 09:07:55.406] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-05-12 09:07:55.415] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-05-12 09:07:55.872] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-05-12 09:07:56.174] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-05-12 09:07:56.184] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-05-12 09:07:56.441] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-05-12 09:07:56.740] [sharedprocess] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-05-12 09:07:57.296] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-05-12 09:07:57.296] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-05-12 09:07:57.297] [sharedprocess] [info] Installing extension: twxs.cmake
+[2022-05-12 09:07:57.297] [sharedprocess] [info] Extension is already requested to install twxs.cmake
+[2022-05-12 09:07:57.297] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-05-12 09:07:57.297] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-05-12 09:07:57.297] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2022-05-12 09:07:59.733] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/nyro/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-05-12 09:07:59.758] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.490bac0b-f025-490f-9352-8f1f37b6710b: ms-vscode.cpptools-themes
+[2022-05-12 09:07:59.763] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-05-12 09:07:59.764] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-05-12 09:08:00.157] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/nyro/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-05-12 09:08:00.187] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.5f24dc21-c0a0-46e0-933a-c79acf15544e: jeff-hykin.better-cpp-syntax
+[2022-05-12 09:08:00.192] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-05-12 09:08:00.193] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-05-12 09:08:02.656] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/nyro/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.10.5
+[2022-05-12 09:08:02.738] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.4605c621-2dac-44cc-a2a2-9d6681b1c6e8: ms-vscode.cmake-tools
+[2022-05-12 09:08:02.743] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-vscode.cmake-tools-1.10.5
+[2022-05-12 09:08:02.746] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-05-12 09:08:05.700] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen /home/nyro/.config/Code/CachedExtensionVSIXs/cschlosser.doxdocgen-1.4.0
+[2022-05-12 09:08:06.099] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.69474c69-1588-4551-aae3-424f71520fd2: cschlosser.doxdocgen
+[2022-05-12 09:08:06.111] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+[2022-05-12 09:08:06.112] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2022-05-12 09:08:22.225] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/nyro/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-05-12 09:08:22.345] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.5b9c40e9-ac1c-403e-bf14-5602b88d0050: twxs.cmake
+[2022-05-12 09:08:22.351] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/twxs.cmake-0.0.17
+[2022-05-12 09:08:22.352] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-05-12 09:09:13.992] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/nyro/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-05-12 09:09:15.543] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.c5d8f2bf-8a00-4ddf-b910-f664699f339b: ms-vscode.cpptools
+[2022-05-12 09:09:15.554] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-05-12 09:09:15.562] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-05-12 09:09:16.035] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/nyro/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-12 09:09:16.045] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.34f0deb9-4dd8-4b68-9bd6-baf0e7421cb7: ms-vscode.cpptools-extension-pack
+[2022-05-12 09:09:16.050] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-12 09:09:16.052] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-05-12 09:09:16.057] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-05-12 09:09:16.058] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-05-12 09:09:16.058] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-05-12 09:09:16.058] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-05-12 09:09:16.058] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-05-12 09:09:16.058] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-05-12 09:09:16.059] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack

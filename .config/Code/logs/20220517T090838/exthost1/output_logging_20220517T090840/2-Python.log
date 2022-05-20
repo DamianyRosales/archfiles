@@ -1,0 +1,14 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonInterpreterInfoPinned' is active
+> conda info --json
+> ~/Projects/REMAX/venv/bin/python3.10 ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+Python interpreter path: ~/Projects/REMAX/venv/bin/python3.10
+> . ~/Projects/REMAX/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/printEnvVariables.py
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

@@ -1,0 +1,5 @@
+[2022-05-13 14:20:12.610] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/nyro/.vscode/extensions/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-13 14:20:12.892] [sharedprocess] [info] Starting worker process with pid 11953 (type: fileWatcher, window: 1).
+[2022-05-13 14:20:13.010] [sharedprocess] [info] Deleted from disk ms-python.python /home/nyro/.vscode/extensions/ms-python.python-2022.6.1
+[2022-05-13 14:30:41.755] [sharedprocess] [info] Worker process with pid 11953 terminated normally (type: fileWatcher, window: 1).
+[2022-05-13 14:30:42.567] [sharedprocess] [info] Starting worker process with pid 14960 (type: fileWatcher, window: 1).

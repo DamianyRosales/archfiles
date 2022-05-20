@@ -1,0 +1,36 @@
+[Info  - 2:30:47 PM] (15047) Pylance language server 2022.5.1 (pyright e0e07d31) starting
+[Info  - 2:30:47 PM] (15047) Server root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Error - 2:30:47 PM] Server initialization failed.
+Error: command 'pyright.createtypestub' already exists
+	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)
+[Error - 2:30:47 PM] Pylance client: couldn't create connection to server.
+Error: command 'pyright.createtypestub' already exists
+	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)
+[Info  - 2:30:48 PM] (15047) Background analysis(1) root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 2:30:48 PM] (15047) Background analysis(1) started
+[Error - 2:32:23 PM] Sending document notification textDocument/didOpen failed.
+  Message: Client is not running
+  Code: -32096 
+[Error - 2:32:25 PM] Sending document notification textDocument/didClose failed.
+  Message: Client is not running
+  Code: -32096 
+[Error - 2:32:25 PM] Sending document notification textDocument/didOpen failed.
+  Message: Client is not running
+  Code: -32096 
+[Error - 2:35:21 PM] Sending document notification textDocument/didClose failed.
+  Message: Client is not running
+  Code: -32096 

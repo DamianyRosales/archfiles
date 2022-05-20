@@ -1,0 +1,93 @@
+[2022-05-13 14:20:12.697] [exthost] [info] Extension host with pid 11830 started
+[2022-05-13 14:20:12.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-13 14:20:12.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-13 14:20:12.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-13 14:20:12.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-13 14:20:12.777] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-05-13 14:20:13.016] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-05-13 14:20:13.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-13 14:20:13.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-13 14:20:14.769] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2022-05-13 14:20:14.769] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.
+   at System.Environment.FailFast(System.String)at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()at Microsoft.Cascade.Agent.Program.Main(System.String[])
+	at ChildProcess.<anonymous> (/home/nyro/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5561/out/prod/extension-prod.js:273313:32)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)
+[2022-05-13 14:20:14.770] [exthost] [info] Eager extensions activated
+[2022-05-13 14:20:14.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:20:14.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:20:14.786] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:30:41.744] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-13 14:30:41.748] [exthost] [info] Extension host with pid 11830 exiting with code 0
+[2022-05-13 14:30:43.333] [exthost] [info] Extension host with pid 14959 started
+[2022-05-13 14:30:43.333] [exthost] [info] Skipping acquiring lock for /home/nyro/.config/Code/User/workspaceStorage/e987be95cc068f61318fa15788fc97ef.
+[2022-05-13 14:30:43.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-13 14:30:43.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.471] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.627] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.633] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+[2022-05-13 14:30:43.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-13 14:30:43.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-13 14:30:45.470] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2022-05-13 14:30:45.470] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.
+   at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[])
+	at ChildProcess.<anonymous> (/home/nyro/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5561/out/prod/extension-prod.js:273313:32)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)
+[2022-05-13 14:30:45.471] [exthost] [info] Eager extensions activated
+[2022-05-13 14:30:45.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:30:45.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:30:45.487] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-13 14:30:47.112] [exthost] [warning] DiagnosticCollection with name 'python' does already exist.
+[2022-05-13 14:30:47.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-05-13 14:32:23.794] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-13 14:32:24.113] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-13 14:32:24.944] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-13 14:35:34.631] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-13 14:35:34.643] [exthost] [info] Extension host with pid 14959 exiting with code 0

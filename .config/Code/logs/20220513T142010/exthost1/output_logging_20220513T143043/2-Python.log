@@ -1,0 +1,13 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonInterpreterInfoPinned' is active
+[ERROR 2022-4-13 14:30:44.214]: No python is installed or a refresh has not already been triggered
+> conda info --json
+> python -c "import sys;print(sys.executable)"
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

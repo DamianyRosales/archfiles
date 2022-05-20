@@ -1,0 +1,15 @@
+[2022-05-13 14:35:36.943] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-13 14:35:36.962] [main] [info] update#setState idle
+[2022-05-13 14:35:36.989] [main] [info] ExtensionHostStarterWorker created
+[2022-05-13 14:35:37.585] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-13 14:35:37.830] [main] [info] Starting extension host with pid 16309 (fork() took 12 ms).
+[2022-05-13 14:35:37.830] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2022-05-13 14:36:06.966] [main] [info] update#setState checking for updates
+[2022-05-13 14:36:06.973] [main] [info] update#setState available for download
+[2022-05-13 15:14:22.581] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-13 15:14:22.612] [main] [info] Extension host with pid 16309 exited with code: 0, signal: null.
+[2022-05-13 15:14:23.285] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-13 15:14:23.437] [main] [info] Starting extension host with pid 20080 (fork() took 10 ms).
+[2022-05-13 15:14:23.437] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-05-13 15:54:58.823] [main] [info] Waiting for extension host with pid 20080 to exit.
+[2022-05-13 15:54:58.852] [main] [info] Extension host with pid 20080 exited with code: 0, signal: null.

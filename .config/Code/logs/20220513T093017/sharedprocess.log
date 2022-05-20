@@ -1,0 +1,16 @@
+[2022-05-13 09:30:19.529] [sharedprocess] [info] Starting worker process with pid 50403 (type: fileWatcher, window: 1).
+[2022-05-13 09:30:19.619] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.4.3
+[2022-05-13 09:30:22.289] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-13 09:30:22.290] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-13 09:30:22.775] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-13 09:30:22.777] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-13 09:30:29.646] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nyro/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.6.2
+[2022-05-13 09:30:30.660] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.65813f7e-45f7-4bf0-b9f3-f40c74667266: ms-python.python
+[2022-05-13 09:30:30.669] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-python.python-2022.6.2
+[2022-05-13 09:30:30.673] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-05-13 09:30:30.679] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-05-13 09:30:31.273] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/nyro/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-13 09:30:31.540] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.29846e78-d67b-4446-ba86-cbddd88bc309: ms-toolsai.jupyter
+[2022-05-13 09:30:31.548] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-13 09:30:31.553] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-13 09:30:31.561] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter

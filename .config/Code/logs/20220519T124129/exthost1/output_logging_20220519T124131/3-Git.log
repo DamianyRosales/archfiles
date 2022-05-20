@@ -1,0 +1,16 @@
+[2022-05-19T17:41:34.338Z] Validating found git in: git
+[2022-05-19T17:41:34.363Z] Using git 2.36.1 from git
+[2022-05-19T17:41:34.378Z] > git rev-parse --show-toplevel [7ms]
+[2022-05-19T17:41:34.395Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-05-19T17:41:34.401Z] Open repository: /home/nyro/My project
+[2022-05-19T17:41:34.417Z] > git status -z -uall [7ms]
+[2022-05-19T17:41:34.430Z] > git symbolic-ref --short HEAD [2ms]
+[2022-05-19T17:41:34.442Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-05-19T17:41:34.463Z] > git remote --verbose [5ms]
+[2022-05-19T17:41:34.464Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-05-19T17:41:34.485Z] > git config --get commit.template [7ms]
+[2022-05-19T17:41:34.757Z] > git show --textconv :Assets/fppController.cs [12ms]
+[2022-05-19T17:41:34.758Z] > git ls-files --stage -- /home/nyro/My project/Assets/fppController.cs [2ms]
+[2022-05-19T17:41:34.966Z] > git check-ignore -v -z --stdin [5ms]
+[2022-05-19T17:41:58.046Z] > git show --textconv :Assets/fppController.cs [7ms]
+[2022-05-19T17:41:58.047Z] > git ls-files --stage -- /home/nyro/My project/Assets/fppController.cs [1ms]

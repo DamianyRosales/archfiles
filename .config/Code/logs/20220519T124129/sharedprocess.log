@@ -1,0 +1,10 @@
+[2022-05-19 12:41:32.024] [sharedprocess] [info] Starting worker process with pid 21194 (type: fileWatcher, window: 1).
+[2022-05-19 12:41:34.934] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-19 12:41:35.405] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-19 12:41:40.695] [sharedprocess] [info] Getting Manifest... ms-dotnettools.csharp
+[2022-05-19 12:41:40.706] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2022-05-19 12:41:56.568] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nyro/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.2
+[2022-05-19 12:41:58.405] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.8feb2a0b-50f2-4cd8-ae53-5bd30fe89b10: ms-python.vscode-pylance
+[2022-05-19 12:41:58.419] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.2
+[2022-05-19 12:41:58.421] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-19 12:41:58.426] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

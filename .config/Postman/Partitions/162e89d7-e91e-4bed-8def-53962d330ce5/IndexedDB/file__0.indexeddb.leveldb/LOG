@@ -1,0 +1,10 @@
+2022/05/16-15:11:59.878 2979 Creating DB /home/nyro/.config/Postman/Partitions/162e89d7-e91e-4bed-8def-53962d330ce5/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2022/05/16-15:11:59.890 2979 Reusing MANIFEST /home/nyro/.config/Postman/Partitions/162e89d7-e91e-4bed-8def-53962d330ce5/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/05/16-15:11:59.904 297a Level-0 table #5: started
+2022/05/16-15:11:59.909 297a Level-0 table #5: 492 bytes OK
+2022/05/16-15:11:59.921 297a Delete type=0 #3
+2022/05/16-15:11:59.921 297a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/05/16-15:11:59.938 297b Level-0 table #7: started
+2022/05/16-15:11:59.942 297b Level-0 table #7: 477 bytes OK
+2022/05/16-15:11:59.948 297b Delete type=0 #4
+2022/05/16-15:11:59.948 297b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

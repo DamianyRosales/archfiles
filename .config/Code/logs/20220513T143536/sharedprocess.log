@@ -1,0 +1,63 @@
+[2022-05-13 14:35:38.650] [sharedprocess] [info] Starting worker process with pid 16346 (type: fileWatcher, window: 1).
+[2022-05-13 15:12:36.884] [sharedprocess] [info] Getting Manifest... jackpaget.gruvbox-glass
+[2022-05-13 15:12:36.888] [sharedprocess] [info] Installing extension: jackpaget.gruvbox-glass
+[2022-05-13 15:12:39.389] [sharedprocess] [info] Downloaded extension: jackpaget.gruvbox-glass /home/nyro/.config/Code/CachedExtensionVSIXs/jackpaget.gruvbox-glass-0.4.1
+[2022-05-13 15:12:40.304] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.25cf1f3f-0fdf-42af-9853-beb736e431e2: jackpaget.gruvbox-glass
+[2022-05-13 15:12:40.313] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/jackpaget.gruvbox-glass-0.4.1
+[2022-05-13 15:12:40.314] [sharedprocess] [info] Extracting completed. jackpaget.gruvbox-glass
+[2022-05-13 15:12:40.316] [sharedprocess] [info] Extension installed successfully: jackpaget.gruvbox-glass
+[2022-05-13 15:14:07.069] [sharedprocess] [info] Getting Manifest... eyhn.vscode-vibrancy
+[2022-05-13 15:14:07.074] [sharedprocess] [info] Installing extension: eyhn.vscode-vibrancy
+[2022-05-13 15:14:09.645] [sharedprocess] [info] Downloaded extension: eyhn.vscode-vibrancy /home/nyro/.config/Code/CachedExtensionVSIXs/eyhn.vscode-vibrancy-1.0.16
+[2022-05-13 15:14:09.781] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.cd7d7c83-f55c-4aa0-843e-1bbc8e2b1247: eyhn.vscode-vibrancy
+[2022-05-13 15:14:09.788] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/eyhn.vscode-vibrancy-1.0.16
+[2022-05-13 15:14:09.790] [sharedprocess] [info] Extracting completed. eyhn.vscode-vibrancy
+[2022-05-13 15:14:09.791] [sharedprocess] [info] Extension installed successfully: eyhn.vscode-vibrancy
+[2022-05-13 15:14:19.437] [sharedprocess] [info] Uninstalling extension: eyhn.vscode-vibrancy
+[2022-05-13 15:14:19.611] [sharedprocess] [info] Detected extension removed from another source eyhn.vscode-vibrancy
+[2022-05-13 15:14:19.738] [sharedprocess] [info] Successfully uninstalled extension: eyhn.vscode-vibrancy
+[2022-05-13 15:14:22.586] [sharedprocess] [info] Worker process with pid 16346 terminated normally (type: fileWatcher, window: 1).
+[2022-05-13 15:14:23.504] [sharedprocess] [info] Starting worker process with pid 20087 (type: fileWatcher, window: 1).
+[2022-05-13 15:15:36.192] [sharedprocess] [info] Uninstalling extension: jackpaget.gruvbox-glass
+[2022-05-13 15:15:36.509] [sharedprocess] [info] Successfully uninstalled extension: jackpaget.gruvbox-glass
+[2022-05-13 15:16:11.341] [sharedprocess] [info] Getting Manifest... heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:11.344] [sharedprocess] [info] Installing extension: heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:12.527] [sharedprocess] [info] Downloaded extension: heavenaldrico.aldrico-s-gruvbox /home/nyro/.config/Code/CachedExtensionVSIXs/heavenaldrico.aldrico-s-gruvbox-0.0.1
+[2022-05-13 15:16:12.581] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.1015b3ab-f55d-4fd2-872d-d3209097811c: heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:12.587] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/heavenaldrico.aldrico-s-gruvbox-0.0.1
+[2022-05-13 15:16:12.588] [sharedprocess] [info] Extracting completed. heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:12.589] [sharedprocess] [info] Extension installed successfully: heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:20.820] [sharedprocess] [info] Uninstalling extension: heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:21.073] [sharedprocess] [info] Successfully uninstalled extension: heavenaldrico.aldrico-s-gruvbox
+[2022-05-13 15:16:30.427] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-05-13 15:16:30.432] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-05-13 15:16:31.204] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/nyro/.config/Code/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-05-13 15:16:31.244] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.67a12939-7ffc-48e3-ae6f-a66b65b27d27: dracula-theme.theme-dracula
+[2022-05-13 15:16:31.249] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-05-13 15:16:31.250] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-05-13 15:16:31.251] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2022-05-13 15:17:19.824] [sharedprocess] [info] Getting Manifest... cluzier.ocean
+[2022-05-13 15:17:19.828] [sharedprocess] [info] Installing extension: cluzier.ocean
+[2022-05-13 15:17:20.793] [sharedprocess] [info] Downloaded extension: cluzier.ocean /home/nyro/.config/Code/CachedExtensionVSIXs/cluzier.ocean-0.0.1
+[2022-05-13 15:17:20.816] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.a81eae91-ea9f-42af-bd30-32d396040260: cluzier.ocean
+[2022-05-13 15:17:20.821] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/cluzier.ocean-0.0.1
+[2022-05-13 15:17:20.822] [sharedprocess] [info] Extracting completed. cluzier.ocean
+[2022-05-13 15:17:20.822] [sharedprocess] [info] Extension installed successfully: cluzier.ocean
+[2022-05-13 15:17:34.863] [sharedprocess] [info] Uninstalling extension: cluzier.ocean
+[2022-05-13 15:17:35.086] [sharedprocess] [info] Successfully uninstalled extension: cluzier.ocean
+[2022-05-13 15:17:40.166] [sharedprocess] [info] Getting Manifest... kleber-swf.ocean-dark-extended
+[2022-05-13 15:17:40.170] [sharedprocess] [info] Installing extension: kleber-swf.ocean-dark-extended
+[2022-05-13 15:17:41.215] [sharedprocess] [info] Downloaded extension: kleber-swf.ocean-dark-extended /home/nyro/.config/Code/CachedExtensionVSIXs/kleber-swf.ocean-dark-extended-1.5.0
+[2022-05-13 15:17:41.230] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.3e43020f-a20f-416e-9daf-6c4506d06006: kleber-swf.ocean-dark-extended
+[2022-05-13 15:17:41.235] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/kleber-swf.ocean-dark-extended-1.5.0
+[2022-05-13 15:17:41.236] [sharedprocess] [info] Extracting completed. kleber-swf.ocean-dark-extended
+[2022-05-13 15:17:41.236] [sharedprocess] [info] Extension installed successfully: kleber-swf.ocean-dark-extended
+[2022-05-13 15:18:02.335] [sharedprocess] [info] Uninstalling extension: kleber-swf.ocean-dark-extended
+[2022-05-13 15:18:02.577] [sharedprocess] [info] Successfully uninstalled extension: kleber-swf.ocean-dark-extended
+[2022-05-13 15:18:17.971] [sharedprocess] [info] Getting Manifest... rofrol.monokai-ocean
+[2022-05-13 15:18:17.975] [sharedprocess] [info] Installing extension: rofrol.monokai-ocean
+[2022-05-13 15:18:19.077] [sharedprocess] [info] Downloaded extension: rofrol.monokai-ocean /home/nyro/.config/Code/CachedExtensionVSIXs/rofrol.monokai-ocean-1.0.6
+[2022-05-13 15:18:19.112] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.cfe2038c-5166-4bf5-bce2-5480c51bb2e9: rofrol.monokai-ocean
+[2022-05-13 15:18:19.116] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/rofrol.monokai-ocean-1.0.6
+[2022-05-13 15:18:19.117] [sharedprocess] [info] Extracting completed. rofrol.monokai-ocean
+[2022-05-13 15:18:19.118] [sharedprocess] [info] Extension installed successfully: rofrol.monokai-ocean

@@ -1,0 +1,17 @@
+Visual Studio Code (1.67.0, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /home/nyro/Projects/REMAX/remaxbackend
+info 15:14:25.544: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 15:14:26.65: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 15:14:26.904: Process Execution: > ~/Projects/REMAX/venv/bin/python3.10 -m pip list
+> ~/Projects/REMAX/venv/bin/python3.10 -m pip list
+info 15:54:58.828: Shutting down notebooks for edeea548-0d95-4d91-9c59-45bc8c5ec8cd
+info 15:54:58.829: Disposing HostJupyterExecution 43f1ea31-f6c6-436a-84eb-fe2c405a36f0
+info 15:54:58.829: Disposing super HostJupyterExecution 43f1ea31-f6c6-436a-84eb-fe2c405a36f0
+info 15:54:58.829: Disposing HostJupyterExecution 43f1ea31-f6c6-436a-84eb-fe2c405a36f0
+info 15:54:58.829: Finished disposing HostJupyterExecution  43f1ea31-f6c6-436a-84eb-fe2c405a36f0
+info 15:54:58.834: Cleaning up server cache 43f1ea31-f6c6-436a-84eb-fe2c405a36f0
+info 15:54:58.834: Finished disposing HostJupyterExecution  43f1ea31-f6c6-436a-84eb-fe2c405a36f0

@@ -1,0 +1,17 @@
+[2022-05-11 12:18:21.418] [sharedprocess] [info] Starting worker process with pid 8330 (type: fileWatcher, window: 1).
+[2022-05-11 12:18:33.232] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-11 12:18:33.236] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-05-11 12:18:50.625] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-05-11 12:18:55.439] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-11 12:20:43.808] [sharedprocess] [error] RequestService#request (browser) - error https://ms-vsliveshare.gallery.vsassets.io/_apis/public/gallery/publisher/MS-vsliveshare/extension/vsliveshare/1.0.5561/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?redirect=true&update=true {}
+[2022-05-11 12:20:43.811] [sharedprocess] [error] RequestService#request (browser) - error https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2022.6.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?redirect=true&update=true {}
+[2022-05-11 12:22:05.784] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nyro/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.6.1
+[2022-05-11 12:22:06.890] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.7406d3fb-c1ca-4397-af37-1a6dd924afd9: ms-python.python
+[2022-05-11 12:22:06.900] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-python.python-2022.6.1
+[2022-05-11 12:22:06.904] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-05-11 12:22:06.911] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-05-11 12:23:56.768] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/nyro/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5561
+[2022-05-11 12:23:57.878] [sharedprocess] [info] Extracted extension to /home/nyro/.vscode/extensions/.89c8e385-1aa5-42d3-a2ee-0d41160a13c1: ms-vsliveshare.vsliveshare
+[2022-05-11 12:23:57.892] [sharedprocess] [info] Renamed to /home/nyro/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5561
+[2022-05-11 12:23:57.895] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-05-11 12:23:57.902] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare

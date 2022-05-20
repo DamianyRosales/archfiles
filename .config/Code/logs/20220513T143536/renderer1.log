@@ -1,0 +1,18 @@
+[2022-05-13 14:35:37.896] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-05-13 14:35:37.934] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-13 14:35:38.674] [renderer1] [error] [Extension Host] (node:16309) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-13 14:51:24.502] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96768)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:96717)
+	at new s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:83077)
+	at G (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-13 15:14:23.600] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-05-13 15:14:23.633] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-13 15:14:25.473] [renderer1] [error] [Extension Host] (node:20080) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

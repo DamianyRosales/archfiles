@@ -1,0 +1,140 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonInterpreterInfoPinned' is active
+[ERROR 2022-4-13 14:30:47.123]: Failure during activation. [Error: command 'python.createNewFile' already exists
+	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+	at s.registerCommand (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:96703)
+	at l.activate (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:97781)
+	at /home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:1788
+	at Array.map (<anonymous>)
+	at f.activate (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:1778)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+[ERROR 2022-4-13 14:30:47.124]: sendStartupTelemetry() failed. [Error: command 'python.createNewFile' already exists
+	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+	at s.registerCommand (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:96703)
+	at l.activate (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:97781)
+	at /home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:1788
+	at Array.map (<anonymous>)
+	at f.activate (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:1778)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)] {
+  vslsStack: [
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {},
+    CallSite {}
+  ]
+}
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+Python interpreter path: /usr/bin/python
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+[ERROR 2022-4-13 14:30:47.821]: [
+  'Failed to start language server, Class name = h, completed in 375ms, has a falsy return value, Arg 1: <Uri:/home/nyro/Projects/REMAX/remaxbackend>, Arg 2: {"id":"/usr/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/usr/bin/python","architecture":3,"sysVersion":"3.10.4 (main, Mar 23 2022, 23:05:40) [GCC 11.2.0]","version":{"raw":"3.10.4","major":3,"minor":10,"patch":4,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.10.4 64-bit","detailedDisplayName":"Python 3.10.4 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"synchronize":{"configurationSection":"python"},"outputChannel":{"name":"Python Language Server"},"revealOutputChannelOn":4,"initializationOptions":{"experimentationSupport":true,"trustedWorkspaceSupport":true},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":2620,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"serverVersion":"2022.5.1","lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"eventName":"LANGUAGE_SERVER.REQUEST","notebookAddon":{}},"connectionOptions":{"cancellationStrategy":{"_sender":{"folderName":"47d180890053184f66aa668029997ac1ba934cf3c3"}}}}, Return Value: undefined',
+  [Error: command 'pyright.createtypestub' already exists
+  	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+  	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+  	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+  	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+  	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+  	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+  	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+  	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)] {
+    vslsStack: [
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {}
+    ]
+  }
+]
+[ERROR 2022-4-13 14:30:47.822]: [
+  'Starting language server, Class name = p, completed in 377ms, has a falsy return value, , Return Value: undefined',
+  [Error: command 'pyright.createtypestub' already exists
+  	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+  	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+  	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+  	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+  	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+  	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+  	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+  	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)] {
+    vslsStack: [
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {}
+    ]
+  }
+]
+[ERROR 2022-4-13 14:30:47.823]: [
+  'Failed to start language server, Class name = p, completed in 378ms, has a falsy return value, Arg 1: <Uri:/home/nyro/Projects/REMAX/remaxbackend>, Arg 2: {"id":"/usr/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/usr/bin/python","architecture":3,"sysVersion":"3.10.4 (main, Mar 23 2022, 23:05:40) [GCC 11.2.0]","version":{"raw":"3.10.4","major":3,"minor":10,"patch":4,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.10.4 64-bit","detailedDisplayName":"Python 3.10.4 64-bit"}, Return Value: undefined',
+  [Error: command 'pyright.createtypestub' already exists
+  	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+  	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+  	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+  	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+  	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+  	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+  	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+  	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)] {
+    vslsStack: [
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {}
+    ]
+  }
+]
+[ERROR 2022-4-13 14:30:47.824]: [
+  'Failed to activate a workspace, Class name = f, completed in 705ms, has a falsy return value, Arg 1: <Uri:/home/nyro/Projects/REMAX/remaxbackend>, Return Value: undefined',
+  [Error: command 'pyright.createtypestub' already exists
+  	at o.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:29716)
+  	at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:30972)
+  	at t.ExecuteCommandFeature.register (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2225181)
+  	at t.ExecuteCommandFeature.initialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2224760)
+  	at S.initializeFeatures (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2176688)
+  	at S.doInitialize (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2164589)
+  	at async S.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2161604)
+  	at async h.start (/home/nyro/.vscode/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:33669)] {
+    vslsStack: [
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {},
+      CallSite {}
+    ]
+  }
+]
+> python -c "import sys;print(sys.executable)"

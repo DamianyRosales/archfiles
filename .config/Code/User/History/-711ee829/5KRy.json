@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "gruvboxMaterial.darkContrast": "hard",
+    "gruvboxMaterial.colorfulSyntax": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Source Code Pro', 'FiraCode', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 18
+}

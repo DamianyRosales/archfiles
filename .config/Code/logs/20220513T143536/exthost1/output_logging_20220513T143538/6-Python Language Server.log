@@ -1,0 +1,40 @@
+[Info  - 2:35:39 PM] (16389) Pylance language server 2022.5.1 (pyright e0e07d31) starting
+[Info  - 2:35:39 PM] (16389) Server root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 2:35:39 PM] (16389) No configuration file found.
+[Info  - 2:35:39 PM] (16389) No pyproject.toml file found.
+[Info  - 2:35:39 PM] (16389) Setting pythonPath for service "remaxbackend": "/bin/python"
+[Warn  - 2:35:39 PM] (16389) stubPath /home/nyro/Projects/REMAX/remaxbackend/typings is not a valid directory.
+[Info  - 2:35:39 PM] (16389) Assuming Python version 3.10
+[Info  - 2:35:39 PM] (16389) Assuming Python platform Linux
+[Info  - 2:35:40 PM] (16389) Searching for source files
+[Info  - 2:35:40 PM] (16389) Found 13 source files
+[Info  - 2:35:40 PM] (16389) Background analysis(1) root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 2:35:40 PM] (16389) Background analysis(1) started
+[Info  - 2:35:42 PM] (16389) Indexer background runner(2) root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist (index)
+[Info  - 2:35:42 PM] (16389) Indexing(2) started
+[Info  - 2:35:42 PM] (16389) Indexer done(2). indexed 445 files
+[Info  - 2:36:24 PM] (16389) No configuration file found.
+[Info  - 2:36:24 PM] (16389) No pyproject.toml file found.
+[Info  - 2:36:24 PM] (16389) Setting pythonPath for service "remaxbackend": "/home/nyro/Projects/REMAX/venv/bin/python3.10"
+[Warn  - 2:36:24 PM] (16389) stubPath /home/nyro/Projects/REMAX/remaxbackend/typings is not a valid directory.
+[Info  - 2:36:24 PM] (16389) Assuming Python version 3.10
+[Info  - 2:36:24 PM] (16389) Assuming Python platform Linux
+[Info  - 2:36:24 PM] (16389) Searching for source files
+[Info  - 2:36:24 PM] (16389) Found 13 source files
+[Info  - 2:36:24 PM] (16471) Pylance language server 2022.5.1 (pyright e0e07d31) starting
+[Info  - 2:36:24 PM] (16471) Server root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 2:36:24 PM] (16471) No configuration file found.
+[Info  - 2:36:24 PM] (16471) No pyproject.toml file found.
+[Info  - 2:36:24 PM] (16471) Setting pythonPath for service "remaxbackend": "/home/nyro/Projects/REMAX/venv/bin/python3.10"
+[Warn  - 2:36:24 PM] (16471) stubPath /home/nyro/Projects/REMAX/remaxbackend/typings is not a valid directory.
+[Info  - 2:36:24 PM] (16471) Assuming Python version 3.10
+[Info  - 2:36:24 PM] (16471) Assuming Python platform Linux
+[Info  - 2:36:24 PM] (16471) Searching for source files
+[Info  - 2:36:24 PM] (16471) Found 13 source files
+[Info  - 2:36:24 PM] (16471) Background analysis(1) root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 2:36:24 PM] (16471) Background analysis(1) started
+[Info  - 2:36:25 PM] (16471) Indexer background runner(2) root directory: /home/nyro/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist (index)
+[Info  - 2:36:25 PM] (16471) Indexing(2) started
+[Info  - 2:36:25 PM] (16471) Indexer done(2). indexed 439 files
+[Info  - 2:41:46 PM] (16471) Searching for source files
+[Info  - 2:41:46 PM] (16471) Found 14 source files

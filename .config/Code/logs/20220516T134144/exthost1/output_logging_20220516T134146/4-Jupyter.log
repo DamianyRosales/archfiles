@@ -1,0 +1,10 @@
+Visual Studio Code (1.67.0, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /home/nyro/Projects/REMAX/remaxbackend
+info 13:41:47.431: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 13:41:47.884: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 13:41:48.220: Process Execution: > ~/Projects/REMAX/venv/bin/python3.10 -m pip list
+> ~/Projects/REMAX/venv/bin/python3.10 -m pip list
