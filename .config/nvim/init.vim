@@ -51,6 +51,8 @@ call plug#begin('~/.vim/plugged')
     " Vim airline and airline themes
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
+    " CSS colors displayer
+    Plug 'ap/vim-css-color'    
 call plug#end()
 
 source $HOME/.config/nvim/plug-config/coc.vim
@@ -64,8 +66,8 @@ colorscheme everforest
 " colorscheme gruvy
 
 " Material -->
-"    colorscheme material
-"    let g:material_style = "deep ocean"
+    " colorscheme material
+    " let g:material_style = "deep ocean"
 
 highlight Normal guibg=none
 highlight NonText ctermbg=none
