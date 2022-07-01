@@ -53,6 +53,8 @@ call plug#begin('~/.vim/plugged')
     Plug 'vim-airline/vim-airline-themes'
     " CSS colors displayer
     Plug 'ap/vim-css-color'    
+    " Vim float terminal
+    Plug 'voldikss/vim-floaterm'
 call plug#end()
 
 source $HOME/.config/nvim/plug-config/coc.vim
@@ -97,6 +99,9 @@ highlight EndOfBuffer guibg=NONE ctermbg=NONE
     nnoremap <C-e> :bnext<CR>
     nnoremap <C-q> :q!<CR>
 
+" Close current tab
+    nnoremap <C-x> :bd<CR>
+    
 " Save file
     nnoremap <C-s> :w<CR>
 " Quit
