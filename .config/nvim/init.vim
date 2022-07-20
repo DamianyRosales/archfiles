@@ -36,6 +36,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'nekonako/xresources-nvim'
     Plug 'marko-cerovac/material.nvim'    
     Plug 'elianiva/gruvy.nvim'
+    Plug 'EdenEast/nightfox.nvim'
     " Syntax
     Plug 'sheerun/vim-polyglot'
     " File explorer tab
@@ -62,18 +63,20 @@ source $HOME/.config/nvim/highlight.lua
 
 " colorscheme
 
-colorscheme everforest
+" colorscheme everforest
 " colorscheme OceanicNext
-" colorscheme gruvbox
+colorscheme gruvbox
+"let g:gruvbox_style = "light"
 " colorscheme gruvy
-
-" Material -->
+" colorscheme terafox
+colorscheme duskfox
+"  Material -->
     " colorscheme material
     " let g:material_style = "deep ocean"
 
-highlight Normal guibg=none
-highlight NonText ctermbg=none
-highlight EndOfBuffer guibg=NONE ctermbg=NONE
+"highlight Normal guibg=none
+"highlight NonText ctermbg=none
+"highlight EndOfBuffer guibg=NONE ctermbg=NONE
 
 " enables
 " --> Airline
@@ -90,6 +93,8 @@ highlight EndOfBuffer guibg=NONE ctermbg=NONE
     nnoremap <C-n> :NERDTree<CR>
     nnoremap <C-t> :NERDTreeToggle<CR>
     nnoremap <C-f> :NERDTreeFind<CR>
+
+    let NERDTreeShowHidden=1
 
     autocmd VimEnter * NERDTree
     autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
